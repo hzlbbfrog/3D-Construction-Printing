@@ -12,5 +12,5 @@ Upper computer numerical control software source code, using C# language prepare
 
 <div align=center>
   <img src="https://github.com/hzlbbfrog/3D-Construction-Printing/blob/master/3D-2.jpg" width="300" />
-  <img src="https://github.com/hzlbbfrog/3D-Construction-Printing/blob/master/3D-3-1.png" width="300" />
+  <img src="https://github.com/hzlbbfrog/3D-Construction-Printing/blob/master/3D-3.png" width="300" />
 </div>
