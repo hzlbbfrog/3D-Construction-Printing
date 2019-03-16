@@ -2,7 +2,7 @@
 
 3D-Construction-Printing
 Here open source upper computer numerical control software source code and g-code analysis program. Welcome to the stars and exchanges.
-![](https://github.com/hzlbbfrog/3D-Construction-Printing/blob/master/3D Printing.png)
+![](https://github.com/hzlbbfrog/3D-Construction-Printing/blob/master/3D-Printing.png)
 
 analysis.c:
 G-code parsing script. It is used to parse g-code into C language control program that can be recognized by SCM.
