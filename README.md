@@ -10,4 +10,4 @@ G-code parsing script. It is used to parse g-code into C language control progra
 Form1.Designer.cs:
 Upper computer numerical control software source code, using C# language prepared. The numerical control software can call the serial port sending module, call the USB interface to communicate with the lower computer, and send the g-code program.
 
-<div align=center><img src="https://github.com/hzlbbfrog/3D-Construction-Printing/blob/master/3D-Printing.png" width="300" height="450" /></div>
+<div align=center><img src="https://github.com/hzlbbfrog/3D-Construction-Printing/blob/master/3D-Printing.png" width="300" /></div>
